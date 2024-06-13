@@ -14,7 +14,7 @@ class Game extends React.Component {
     startGame() {
         if (!this.state.gameObject.length) {
             $('body').addClass('loading');
-            $.ajax(document.location.origin + '/media/taskslist.json')
+            $.ajax('./media/taskslist.json')
                 .done((result) => {
                     this.setState({ gameObject: result, gameStarted: true });
                 })
