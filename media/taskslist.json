@@ -1,0 +1,44 @@
+[
+    {
+        "answer": "First level",
+        "tasks": [
+            {
+                "question": "The anterior part of the head, containing the eyes, nose, and mouth.",
+                "answer": "Face"
+            },
+            {
+                "question": "Frozen water",
+                "answer": "Ice"
+            },
+            {
+                "question": "Few floating logs, tied together",
+                "answer": "Raft"
+            },
+            {
+                "question": "The part of a shirtt that covers a person's arm.",
+                "answer": "Sleeve"
+            }
+        ]
+    },
+    {
+        "answer": "Quality Time",
+        "tasks": [
+            {
+                "question": "A state of physical and/or mental well-being",
+                "answer": "Health"
+            },
+            {
+                "question": "Tinker Bell",
+                "answer": "Fairy"
+            },
+            {
+                "question": "A picture that shows where are the treasures!",
+                "answer": "Treasure Map"
+            },
+            {
+                "question": "A small number of soldiers assigned to a special task.",
+                "answer": "Squad"
+            }
+        ]
+    }
+]

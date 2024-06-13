@@ -1,0 +1,30 @@
+body {
+    padding: 15px;
+}
+
+.string-wrapper {
+    display: flex;
+}
+
+.letter-input-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 30px 0 0;
+}
+
+.letter-input {
+    width: 100%;
+    text-transform: uppercase;
+}
+
+.game-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+button {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 360px;
+}
